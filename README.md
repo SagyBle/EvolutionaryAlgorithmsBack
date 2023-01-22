@@ -23,6 +23,8 @@
   * pressing this button will parse the data and transfer it to the backend, make the calculations using ec-kity library, parse it back and send it to the UI.
   * Now you can see the results,  on the bottom of the page.
 
+[Final report](url) :
+https://shaysagyminiproject.tiiny.site/
 
 enjoy!
 
